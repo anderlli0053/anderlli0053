@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+- Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind
+
+- Have more than you show, speak less than you know!
+
+🇦🇺         🇳🇿         🇸🇮         🇨🇦        
+
 <!--
 **anderlli0053/anderlli0053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
