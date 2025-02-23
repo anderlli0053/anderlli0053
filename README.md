@@ -5,6 +5,9 @@
 
 - Have more than you show, speak less than you know!
 
+- Normality is a paved road; It's comfortable to walk, but no flowers grow on it!
+
+
 🇦🇺         🇳🇿         🇸🇮         🇨🇦        
 
 
