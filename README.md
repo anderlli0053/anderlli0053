@@ -7,6 +7,8 @@
 
 - Normality is a paved road; It's comfortable to walk, but no flowers grow on it!
 
+- As above, so below, as within, so without, as the universe, so the soul.
+
 
 🇦🇺         🇳🇿         🇸🇮         🇨🇦        
 
