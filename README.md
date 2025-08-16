@@ -13,11 +13,8 @@
 🇦🇺         🇳🇿         🇸🇮         🇨🇦        
 
 
-
-![456482455_887422363420226_1122304214662360827_n](https://github.com/user-attachments/assets/e29c99dd-caaf-458a-8499-1ff1814922c4)
-
 <hr>
-<hr>
+
 
 
 
@@ -29,7 +26,7 @@
 [![](https://raw.githubusercontent.com/anderlli0053/anderlli0053/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/anderlli0053/anderlli0053/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
+<hr>
 
 <!--
 **anderlli0053/anderlli0053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
