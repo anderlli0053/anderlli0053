@@ -32,16 +32,13 @@
 
 ![anderlli0053's Stats](https://github-readme-stats.vercel.app/api?username=anderlli0053&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
+
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/anderlli0053/stats)
-
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/anderlli0053/contributions)
-
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/anderlli0053/highlights)
-
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/anderlli0053/archtype)
-
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/anderlli0053/quirk)
-
+![Github Stats](https://greptile-stats.vercel.app/api/widget/anderlli0053/private-stats)
 
 
 <hr>
