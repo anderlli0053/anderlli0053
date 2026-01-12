@@ -4,7 +4,8 @@ on:
   create:
   schedule: # execute every 24 hours
     #- cron: "35 07 * * mon"
-    - cron: "* */15 * * *"
+    #- cron: "* */15 * * *"
+     - cron: "* */24 * * *"
     
   workflow_dispatch:
 
@@ -19,6 +20,6 @@ jobs:
         - uses: actions/checkout@v2
         - uses: vn7n24fzkq/github-profile-summary-cards@release
           env:
-            GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.profile-summary-cards-token }}
           with:
             USERNAME: ${{ github.repository_owner }}
