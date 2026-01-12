@@ -20,6 +20,20 @@
 <hr>
 <hr>
 
+## GitHub Stats
+
+🏆 **Public Repositories**: 156  
+👥 **Followers**: 47  
+👤 **Following**: 267  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anderlli0053&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+
+## Recent Activity
+
+- Pushed changes to [anderlli0053](https://github.com/anderlli0053/anderlli0053) on January 12, 2026.
+- Pushed changes to [godot](https://github.com/anderlli0053/godot) on January 12, 2026.
+- Commented on an issue in [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) on January 11, 2026.
+- Opened an issue in [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) on January 11, 2026.
 
 
 ## 🌐 Socials:
@@ -29,18 +43,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=anderlli0053&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anderlli0053&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anderlli0053&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anderlli0053&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=anderlli0053&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![GitHubCard](https://githubcard.com/anderlli0053.svg)
 
 
 
