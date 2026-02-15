@@ -22,7 +22,8 @@
 
 ## GitHub Stats
 
-🏆 **Public Repositories**: 156  
+🏆 **Public Repositories**: 156
+🏆 **Private Repositories**: Even more...
 👥 **Followers**: 47  
 👤 **Following**: 267  
 
